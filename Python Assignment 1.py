@@ -6,6 +6,7 @@
 # Output:
 # 40
 #solution:
+# it work without bracket
 
 def evaluate(string):
     # string = string.replace(" ", "")
